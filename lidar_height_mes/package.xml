@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>lidar_height_mes</name>
+  <version>0.0.0</version>
+  <description>The lidar_height_mes package</description>
+  <maintainer email="zigfried@todo.todo">zigfried</maintainer>
+
+  <license>TODO</license>
+  
+  <depend>roscpp</depend>
+  <depend>geometry_msgs</depend>
+  <depend>std_msgs</depend>
+</package>
